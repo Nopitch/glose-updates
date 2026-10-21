@@ -1,7 +1,13 @@
 {
   "addons": {
     "glose@nopitch.github.io": {
-      "updates": []
+      "updates": [
+        {
+          "version": "1.1.0",
+          "update_link": "https://nopitch.github.io/glose-updates/glose-1.1.0.xpi",
+          "update_hash": "sha256:502029b355fb2c7e772129ccc6a04a496be0bb6db7b7e0ad2db258bdf34dd189"
+        }
+      ]
     }
   }
 }
