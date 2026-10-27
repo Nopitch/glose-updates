@@ -46,6 +46,11 @@
           "version": "1.1.8",
           "update_link": "https://nopitch.github.io/glose-updates/glose-1.1.8.xpi",
           "update_hash": "sha256:792cf32172221a310a26254a6ad84d60dde83d9233d74c7f50e8888c1926f53f"
+        },
+        {
+          "version": "1.1.9",
+          "update_link": "https://nopitch.github.io/glose-updates/glose-1.1.9.xpi",
+          "update_hash": "sha256:92b30945fb664a3756f0917c242240e28c0f4b75f06a5bf4b2dff9f37bb5a044"
         }
       ]
     }
